@@ -1,51 +1,23 @@
-# Natural ou Fake Natty? Como Vencer na Era das IAs Generativas
+# Entre o Real e o Render
+📒 Descrição
+Uma série visual e textual inspirada em sonhos lúcidos, vaporwave e nostalgia dos anos 2000, criada com IAs generativas para evocar sensações surreais e esteticamente agradáveis. O objetivo foi explorar a fronteira entre o real e o artificial, criando algo que parecesse "naturalmente sintético".
 
-## 🚀 Introdução
+🤖 Tecnologias Utilizadas
+ChatGPT (GPT-4o) – para geração de textos poéticos e narrativos
 
-> Woooow! Look at this 👀
+DALL·E 3 / 4o – para geração de imagens com estética vaporwave, cyber y2k e dreamcore
 
-Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisiculturismo, este Lab da DIO te convida a conhecer o mundo das IAs Generativas, explorando o potencial dessas tendências tecnológicas incríveis!
+RunwayML – para pequenos vídeos estilo VHS com estética glitch
 
-## 🎯 Bora Pro Desafio!? Você Já Venceu 💪🤓
+Canva – para compor os elementos gráficos finais com fontes e filtros retrô
 
-### Objetivos
+Adobe Audition – para criar paisagens sonoras lo-fi e etéreas
 
-1. **Explorar IAs Generativas**: Utilize essas tecnologias para criar conteúdos que sejam o mais realista possível. Seja criativo! Você pode produzir imagens, textos, áudios, vídeos ou combinações de tudo isso!
-1. **Potfólio de Projetos**:
-    1. Faça o "fork" deste repositório, criando uma cópia em seu GitHub pessoal;
-    2. Edite seu README com os detalhes do seu projeto, siga nosso [Template](#template) (é só copiar, colar e preencher);
-    3. Submeta o link do seu repositório na plataforma da DIO. Pronto, você acabou de fortalecer seu portfólio de projetos nos perfis do GitHub e DIO 🚀
-1. **Efeito de Rede**: Compartilhe seus resultados nas redes sociais com a hashtag **#LabDIONattyOrNot**. Não esqueça de nos marcar: [DIO](https://www.linkedin.com/school/dio-makethechange) e [falvojr](https://www.linkedin.com/in/falvojr).
+🧐 Processo de Criação
+Comecei coletando referências visuais no Pinterest e Tumblr para definir a vibe. Em seguida, usei o ChatGPT para escrever microcontos inspirados em memórias inventadas. As descrições foram passadas para o DALL·E para criar imagens que refletissem essas cenas. Depois, editei tudo junto em colagens audiovisuais com som ambiente e efeitos visuais glitch para intensificar a imersão.
 
-### Template
+🚀 Resultados
+O projeto foi publicado como uma exposição online interativa. Recebeu feedback positivo por transmitir uma sensação de "estranha familiaridade". As imagens foram repostadas por várias páginas de estética no Instagram e Tumblr, e a trilha sonora foi usada em vídeos no TikTok.
 
-```markdown
-# Título do Projeto Extremamente Aesthetic ;)
-
-## 📒 Descrição
-Breve descrição do seu projeto
-
-## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
-
-## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
-
-## 🚀 Resultados
-Apresente os resultados do seu projeto
-
-## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
-```
-
-### Exemplos e Insigths
-
-- [E-BOOK](/exemplos/E-BOOK.md)
-- [Podcast](/exemplos/PODCAST.md)
-- [Vídeo (Avatar Virtual)](/exemplos/VIDEO.md)
-
-## Links Interessantes
-
-[Base10: If You’re Not First, You’re Last: How AI Becomes Mission Critical](https://base10.vc/post/generative-ai-mission-critical/)
-
-![Base10's Trend Map Generative AI](https://github.com/digitalinnovationone/lab-natty-or-not/assets/730492/f4df26e8-f8f7-4419-8252-c69d73ea930c)
+💭 Reflexão (Opcional)
+Criar algo ‘natty’ com IA é como pintar com um pincel que tem vontade própria. O desafio foi manter a autenticidade mesmo usando ferramentas artificiais — equilibrar o controle com o caos gerado. Mas no final, acho que é essa tensão que dá vida à estética.
